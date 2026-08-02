@@ -93,12 +93,40 @@ npm run lint
 
 ## 🖼️ Screenshots
 
-_Add screenshots here once available:_
+### Home & Offers
+![Home – Flash Sale & Offers](docs/screenshots/home-offers-flash-sale.png)
 
-<!-- Example:
-![Home page](docs/screenshots/home.png)
-![Product details](docs/screenshots/product-details.png)
--->
+### Categories
+| Chips | Cookies | Indian Snacks |
+|---|---|---|
+| ![Chips](docs/screenshots/category-chips.png) | ![Cookies](docs/screenshots/category-cookies.png) | ![Indian Snacks](docs/screenshots/category-indian-snacks.png) |
+
+| Healthy Snacks | Chocolates |
+|---|---|
+| ![Healthy Snacks](docs/screenshots/category-healthy-snacks.png) | ![Chocolates](docs/screenshots/category-chocolates.png) |
+
+### Best Sellers & Search
+| Best Sellers | Search Results |
+|---|---|
+| ![Best Sellers](docs/screenshots/best-sellers.png) | ![Search Results](docs/screenshots/search-results.png) |
+
+### Product Details
+| Chips (Lay's) | Cookies (Parle) |
+|---|---|
+| ![Product Details – Chips](docs/screenshots/product-details-chips.png) | ![Product Details – Cookies](docs/screenshots/product-details-cookies.png) |
+
+### Cart & Checkout
+| Cart | Checkout |
+|---|---|
+| ![Cart](docs/screenshots/cart.png) | ![Checkout](docs/screenshots/checkout.png) |
+
+### Wishlist & Orders
+| Wishlist | My Orders |
+|---|---|
+| ![Wishlist](docs/screenshots/wishlist.png) | ![My Orders](docs/screenshots/my-orders.png) |
+
+### Delivery Location
+![Delivery Location](docs/screenshots/delivery-location.png)
 
 ## 📄 License
 
