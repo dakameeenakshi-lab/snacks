@@ -1,8 +1,6 @@
 # 🍿 SnackHub
 
-SnackHub is a React + Vite storefront for browsing and ordering snacks from popular Indian brands — chips, Indian snacks, cookies, chocolates, drinks, and healthy snacks. It includes product browsing, search, cart, wishlist, order tracking, reviews, and a phone-OTP style login flow.
-
-> 📸 *Screenshots coming soon — see the [Screenshots](#-screenshots) section below.*
+SnackHub is a React + Vite storefront for browsing and ordering snacks from popular Indian brands — chips, Indian snacks, cookies, chocolates, drinks, and healthy snacks. It includes product browsing, search, cart, wishlist, order tracking, and reviews.
 
 ## ✨ Features
 
@@ -127,6 +125,9 @@ npm run lint
 | Wishlist | My Orders |
 |---|---|
 | ![Wishlist](docs/screenshots/wishlist.png) | ![My Orders](docs/screenshots/my-orders.png) |
+
+### Delivery Tracking
+![Delivery Tracking](docs/screenshots/delivery-tracking.png)
 
 ### Delivery Location
 ![Delivery Location](docs/screenshots/delivery-location.png)
