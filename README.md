@@ -93,6 +93,9 @@ npm run lint
 
 ## 🖼️ Screenshots
 
+### Home Page
+![Home Page](docs/screenshots/home-page.png)
+
 ### Home & Offers
 ![Home – Flash Sale & Offers](docs/screenshots/home-offers-flash-sale.png)
 
